@@ -1,0 +1,18 @@
+Memory used by DynArr: 0 kb
+Time for running contains() on 1000 elements: 0 ms
+Memory used by DynArr: 16 kb
+Time for running contains() on 2000 elements: 0 ms
+Memory used by DynArr: 36 kb
+Time for running contains() on 4000 elements: 20 ms
+Memory used by DynArr: 116 kb
+Time for running contains() on 8000 elements: 90 ms
+Memory used by DynArr: 200 kb
+Time for running contains() on 16000 elements: 380 ms
+Memory used by DynArr: 372 kb
+Time for running contains() on 32000 elements: 1530 ms
+Memory used by DynArr: 616 kb
+Time for running contains() on 64000 elements: 6140 ms
+Memory used by DynArr: 1124 kb
+Time for running contains() on 128000 elements: 24600 ms
+Memory used by DynArr: 2124 kb
+Time for running contains() on 256000 elements: 98440 ms
